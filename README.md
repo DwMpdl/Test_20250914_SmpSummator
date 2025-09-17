@@ -1,27 +1,26 @@
-# Readme created with RDMO
+# Test_20250914_Summator
 
-**What is the title of the software project? (project/title):**
+This software belongs to the research fields:
 
-Test_20250914_Summator
+-   Engineering Sciences / Computer Science
+-   Natural Sciences / Mathematics
 
-**Which research field(s) does this software belong to?
-(project/research_field):**
-
-Ingenieurwissenschaften / Informatik
-
-Naturwissenschaften / Mathematik
-
-**What is the intended use of the software? How will your software
-contribute to research? (project/research_question/title):**
+Its intended use and its contribution to research:
 
 Das ist die Antwort zu \"Was ist der beabsichtigte Verwendungszweck der
 Software? Wie wird Ihre Software zur Forschung beitragen?\"
 
-**Who are the project participants that deal with this software?
-(project/partner/id):**
+Contributor(s)
 
 -   Tina Erika Mustermann (https://orcid.org/0009-0004-5716-2091),
     Addier-Experte at Math for America
 
-**What licences are on the third-party software components?
-(smp/software-license):**
+Software license: MIT
+
+### Setup
+
+**\[ToDo\]**
+
+### Usage
+
+**\[ToDo\]**
