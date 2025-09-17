@@ -2,7 +2,7 @@ Wie lautet der Titel des Softwareprojekts?,,SummatorPro - eine neue Software fü
 Zu welchem(n) Forschungsbereich(en) gehört diese Software?,,Ingenieurwissenschaften / Informatik; Naturwissenschaften / Mathematik
 In welche Anwendungsklasse wird die Software eingeordnet?,,Anwendungsklasse 3: Für die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere für kritische Software und solche mit Produkteigenschaften.
 Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?,,"Das ist die Antwort zu ""Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?"""
-"Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",,"Man kann nicht nur zwei Zahlen addieren, sondern mehrere. Sowas klingt doch sehr neu."
+"Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",,"Man kann nicht nur zwei Zahlen addieren, sondern mehrere. Sowas klingt doch sehr neu. Das ist die zweite Zeile. Und das die dritte. Und das müsste die vierte sein."
 ORCID-Suche,"Set ""Tina""",Erika Mustermann [0009-0004-5716-2091]
 Familienname(n),"Set ""Tina""",Mustermann
 Rufname(n),"Set ""Tina""",Tina Erika
@@ -14,4 +14,16 @@ ROR ID,"Set ""Tina"" Set #1",https://ror.org/0024x0915
 Gibt es existierende (personellen/finanziellen) Ressourcen oder wird es eine spezielle Finanzierung für die Softwareentwicklung geben?,,Mitfinanzierung durch großen Softwarekonzernn
 Wann beginnt das Softwareprojekt?,,2025-09-17
 Wann endet das Softwareprojekt?,,2025-09-28
-Welcher Softwareentwicklungsprozess wird definiert? Wie werden die Prozessrollen zugewiesen?,,"Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechendwiesen."
+Welcher Softwareentwicklungsprozess wird definiert? Wie werden die Prozessrollen zugewiesen?,,"Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechend zugewiesen. So wird das gemacht."
+Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsfälle?,,"Das ist der erste Antwort-Eintrag zur Frage ""Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsfälle?""; Und das der zweite Antwort-Eintrag , ebenfalls zur Frage ""Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsfälle?"""
+Gibt es definierte Release-Prozesse für die Software?,,"Das ist die Antwort zu ""Gibt es definierte Release-Prozesse für die Software?""."
+Wie sieht der Entscheidungsprozess für den Release aus? Wie oft wird eine Softwareversion erstellt?,,"Das ist die Antwort zu ""Wie sieht der Entscheidungsprozess für den Release aus? Wie oft wird eine Softwareversion erstellt?""."
+Wo soll die Software gespeichert werden? Verfügt der Speicherort über eine klare Aufbewahrungsregelung?,,"Das ist die Antwort zu ""Wo soll die Software gespeichert werden? Verfügt der Speicherort über eine klare Aufbewahrungsregelung?""."
+Wird diese Software öffentlich zugänglich sein?,,Ja
+"In welchem Repository oder Archiv wird die Software aufbewahrt? Wie leicht kann es gefunden werden? Welche Strategie wird angewandt, um die Software benutzbar zu halten?",,Das soll bei zenodo oder so aufbewahrt werden.
+Wie vergeben Sie Metadaten für Ihre Software?,,Wir vergeben die Metadaten für die Software irgendwie.
+Wie organisieren Sie den Support- und Feedbackprozess mit anderen Nutzenden?,,Mit Heidelbeermarmelade organisieren wir das.
+Wie ist die rechtliche Situation?,,"Das ist die Antwort zu ""Wie ist die rechtliche Situation?""."
+"Wird im Rahmen des Projekts Software verwendet und/oder hergestellt, die durch geistige oder gewerbliche Eigentumsrechte Dritter geschützt ist?",,"Das ist die Antwort zu """"."
+Unter welche Art von Lizenz(en) wird die Software fallen?,,MIT
+Kann die Software auch für militärische Zwecke genutzt werden?,,"Nein, ich plane keine Bomben damit zu bauen."
