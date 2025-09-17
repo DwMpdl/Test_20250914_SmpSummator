@@ -22,7 +22,7 @@
   {
     "question": "Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",
     "set": "",
-    "values": "Man kann nicht nur zwei Zahlen addieren, sondern mehrere. Sowas klingt doch sehr neu."
+    "values": "Man kann nicht nur zwei Zahlen addieren, sondern mehrere. Sowas klingt doch sehr neu. Das ist die zweite Zeile. Und das die dritte. Und das m\u00fcsste die vierte sein."
   },
   {
     "question": "ORCID-Suche",
@@ -82,6 +82,66 @@
   {
     "question": "Welcher Softwareentwicklungsprozess wird definiert? Wie werden die Prozessrollen zugewiesen?",
     "set": "",
-    "values": "Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechendwiesen."
+    "values": "Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechend zugewiesen. So wird das gemacht."
+  },
+  {
+    "question": "Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?",
+    "set": "",
+    "values": "Das ist der erste Antwort-Eintrag zur Frage \"Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?\"; Und das der zweite Antwort-Eintrag , ebenfalls zur Frage \"Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?\""
+  },
+  {
+    "question": "Gibt es definierte Release-Prozesse f\u00fcr die Software?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Gibt es definierte Release-Prozesse f\u00fcr die Software?\"."
+  },
+  {
+    "question": "Wie sieht der Entscheidungsprozess f\u00fcr den Release aus? Wie oft wird eine Softwareversion erstellt?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Wie sieht der Entscheidungsprozess f\u00fcr den Release aus? Wie oft wird eine Softwareversion erstellt?\"."
+  },
+  {
+    "question": "Wo soll die Software gespeichert werden? Verf\u00fcgt der Speicherort \u00fcber eine klare Aufbewahrungsregelung?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Wo soll die Software gespeichert werden? Verf\u00fcgt der Speicherort \u00fcber eine klare Aufbewahrungsregelung?\"."
+  },
+  {
+    "question": "Wird diese Software \u00f6ffentlich zug\u00e4nglich sein?",
+    "set": "",
+    "values": "Ja"
+  },
+  {
+    "question": "In welchem Repository oder Archiv wird die Software aufbewahrt? Wie leicht kann es gefunden werden? Welche Strategie wird angewandt, um die Software benutzbar zu halten?",
+    "set": "",
+    "values": "Das soll bei zenodo oder so aufbewahrt werden."
+  },
+  {
+    "question": "Wie vergeben Sie Metadaten f\u00fcr Ihre Software?",
+    "set": "",
+    "values": "Wir vergeben die Metadaten f\u00fcr die Software irgendwie."
+  },
+  {
+    "question": "Wie organisieren Sie den Support- und Feedbackprozess mit anderen Nutzenden?",
+    "set": "",
+    "values": "Mit Heidelbeermarmelade organisieren wir das."
+  },
+  {
+    "question": "Wie ist die rechtliche Situation?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Wie ist die rechtliche Situation?\"."
+  },
+  {
+    "question": "Wird im Rahmen des Projekts Software verwendet und/oder hergestellt, die durch geistige oder gewerbliche Eigentumsrechte Dritter gesch\u00fctzt ist?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"\"."
+  },
+  {
+    "question": "Unter welche Art von Lizenz(en) wird die Software fallen?",
+    "set": "",
+    "values": "MIT"
+  },
+  {
+    "question": "Kann die Software auch f\u00fcr milit\u00e4rische Zwecke genutzt werden?",
+    "set": "",
+    "values": "Nein, ich plane keine Bomben damit zu bauen."
   }
 ]
